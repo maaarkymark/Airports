@@ -1,6 +1,4 @@
-Web Development
-• Website Creation
-o Created a website that displayed top establishments and events in Montreal using client and
-server-side architecture
-▪ Utilized: HTML5, CSS3, JavaScript/JQuery, PHP/Twig, Ajax/JSON, XAMPP, Apache,
-MySQL and Google Maps JavaScript API
+Java
+• Airports Derby/Restful
+o Created a GUI application to store airport information using a local database and RESTful API
+▪ Utilized: Java Swing, JDBC, Derby DB and RESTful API
